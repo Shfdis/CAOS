@@ -1,0 +1,45 @@
+# Compiled binaries
+program1/program1
+program2/program2_coordinator
+program2/program2_player
+program3/program3_coordinator
+program3/program3_player
+program3/program3_observer
+program4/program4_coordinator
+program4/program4_player
+program4/program4_observer
+
+# Object files
+*.o
+*.obj
+
+# Build directories
+build/
+bin/
+obj/
+
+# Temporary files
+*.tmp
+*.swp
+*~
+.*.sw?
+
+# Log files
+*.log
+/tmp/p*.log
+
+# Core dumps
+core
+core.*
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
